@@ -1,0 +1,5 @@
+100000000     ! total KMC steps
+2000000       ! the step count written in each group output file (with 10000 step interval)
+500000        ! pressure (Pa)
+673           ! temperature (K)
+
