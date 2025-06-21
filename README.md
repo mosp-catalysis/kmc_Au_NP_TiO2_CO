@@ -1,7 +1,7 @@
 > **Note**  
 > This is a demo. Formal version will be released in the future.  
 
-Environmental kinetic Monte Carlo (EKMC) simualations for the Au@anatase TiO<sub>2</sub>(101) system under CO gas conditions. 
+Environmental kinetic Monte Carlo (EKMC) simualations for the Au@anatase TiO<sub>2</sub>(101) system under CO gas conditions. For details please refer to this article: Zhang, S.; Han, Y.; Li, X.-Y.; Tang, Q.; Zhu, B.; Gao, Y. Particle hopping and coalescence of supported Au nanoparticles in harsh reactive environments. _J. Am. Chem. Soc._ **2025**, _147_, 15796-15805. doi:10.1021/jacs.5c03633. [link](https://pubs.acs.org/doi/10.1021/jacs.5c03633)
 
 There is a demo that can be executed in linux environment. Compilation environment: GNU Fortran (GCC) 8.5.0 20210514 (Red Hat 8.5.0-18)  
 
